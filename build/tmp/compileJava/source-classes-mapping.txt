@@ -1,0 +1,36 @@
+advantageonlineshopping/tasks/ChooseTheLaptop.java
+ advantageonlineshopping.tasks.ChooseTheLaptop
+advantageonlineshopping/userinterfaces/ShoppingCartPage.java
+ advantageonlineshopping.userinterfaces.ShoppingCartPage
+advantageonlineshopping/userinterfaces/LapTopsPage.java
+ advantageonlineshopping.userinterfaces.LapTopsPage
+advantageonlineshopping/tasks/OpenTheBrowser.java
+ advantageonlineshopping.tasks.OpenTheBrowser
+advantageonlineshopping/userinterfaces/MyAccountPage.java
+ advantageonlineshopping.userinterfaces.MyAccountPage
+advantageonlineshopping/userinterfaces/FailedPage.java
+ advantageonlineshopping.userinterfaces.FailedPage
+advantageonlineshopping/tasks/LogIn.java
+ advantageonlineshopping.tasks.LogIn
+advantageonlineshopping/userinterfaces/AddToCartPage.java
+ advantageonlineshopping.userinterfaces.AddToCartPage
+advantageonlineshopping/userinterfaces/HomePage.java
+ advantageonlineshopping.userinterfaces.HomePage
+advantageonlineshopping/interactions/Recall.java
+ advantageonlineshopping.interactions.Recall
+advantageonlineshopping/questions/ConfirmType.java
+ advantageonlineshopping.questions.ConfirmType
+advantageonlineshopping/tasks/Search.java
+ advantageonlineshopping.tasks.Search
+advantageonlineshopping/tasks/StartPurchaseProcess.java
+ advantageonlineshopping.tasks.StartPurchaseProcess
+advantageonlineshopping/questions/ConfirmName.java
+ advantageonlineshopping.questions.ConfirmName
+advantageonlineshopping/tasks/FinishThePurchase.java
+ advantageonlineshopping.tasks.FinishThePurchase
+advantageonlineshopping/interactions/Remember.java
+ advantageonlineshopping.interactions.Remember
+advantageonlineshopping/tasks/ConfirmTheLaptopName.java
+ advantageonlineshopping.tasks.ConfirmTheLaptopName
+advantageonlineshopping/userinterfaces/OrderPaymentPage.java
+ advantageonlineshopping.userinterfaces.OrderPaymentPage

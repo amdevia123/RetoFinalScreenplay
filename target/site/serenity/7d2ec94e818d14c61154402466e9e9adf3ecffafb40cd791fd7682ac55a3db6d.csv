@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Buy a product on a technology page.","Buy a computer on the page.","SUCCESS","2021-06-15T17:28:55.447-05:00[America/Bogota]","0.0","20.89"
+"Buy a product on a technology page.","Can't buy a computer on the page","SUCCESS","2021-06-15T17:29:17.295-05:00[America/Bogota]","0.0","14.99"
